@@ -2,10 +2,26 @@
     font-size: 16px;
     margin: 0px;
     padding: 0px;
-    background-color: rgb(0, 255, 72);
+    background-color: #162831;
+    color: white;
 }
 
-p {
-    font-size: 3rem;
-    color:red;
+header {
+    display: flex;
+    justify-content: center;
+}
+
+header p {
+    margin: 1rem;
+}
+
+.image {
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+}
+.ads{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
 }
